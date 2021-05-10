@@ -1,0 +1,10 @@
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\Serhii_Sosnitky_Calculator.csprojAssemblyReference.cache
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\Serhii_Sosnitky_Calculator.csproj.GenerateResource.cache
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\Serhii_Sosnitky_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\sosni\source\repos\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
